@@ -1,0 +1,31 @@
+CharacterChat-Wortschatz (wortschatz.db)
+========================================
+
+Diese Datenbank steht als Ganzes unter der Lizenz Creative Commons Namensnennung – Weitergabe unter gleichen Bedingungen 4.0
+International (CC BY-SA 4.0): https://creativecommons.org/licenses/by-sa/4.0/deed.de
+This database as a whole is licensed under CC BY-SA 4.0: https://creativecommons.org/licenses/by-sa/4.0/
+
+Quellen
+-------
+- Deutsches Wiktionary (https://de.wiktionary.org), Autorinnen und Autoren siehe die Versionsgeschichte der jeweiligen Seite
+  (https://de.wiktionary.org/wiki/<Lemma>?action=history). Lizenz CC BY-SA 4.0. Dump vom 01.10.2026, ausgelesen mit wiktextract
+  (Tatu Ylonen, https://github.com/tatuylonen/wiktextract) über https://kaikki.org.
+- FrequencyWords (Hermit Dave, https://github.com/hermitdave/FrequencyWords), Häufigkeiten aus OpenSubtitles 2018. Lizenz CC BY-SA 4.0.
+- OdeNet, Offenes Deutsches WordNet (Melanie Siegel, Francis Bond, https://github.com/hdaSprachtechnologie/odenet). Lizenz CC BY-SA 4.0.
+- Emoji Sentiment Ranking 1.0 (Petra Kralj Novak, Jasmina Smailović, Borut Sluban, Igor Mozetič: Sentiment of Emojis, PLoS ONE 2015,
+  https://kt.ijs.si/data/Emoji_sentiment_ranking/). Lizenz CC BY-SA 4.0. Auswahl der Emoji und Valenz der nicht beschriebenen.
+- Unicode CLDR, deutsche Namen der Emoji (https://cldr.unicode.org). Copyright © Unicode, Inc., Unicode License v3
+  (https://www.unicode.org/license.txt).
+
+Bearbeitung
+-----------
+Bearbeitet und zusammengeführt: Aus den Wiktionary-Einträgen wurden Stammformen, Merkmale und Ausnahmen gelesen; die Wortformen sind nach
+eigenen Regeln neu gebildet und mit den Tabellen der Quelle abgeglichen. Dazu kommen ein Formen-Index, Häufigkeitsränge und eine Tabelle
+der Chat-Wörter und Abkürzungen. Alltagsbedeutungen, Satzrahmen, Wendungen, Chat-Wörter und Emoji-Angaben hat Claude Haiku 5.5 (Anthropic)
+aus diesen Quellen beschrieben; sie sind im Code gegen feste Listen geprüft und stichprobenartig durchgesehen. Keine Gewähr für Richtigkeit.
+
+Angaben in der Datei (Tabelle Meta)
+-----------------------------------
+lizenz: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+quellen: Deutsches Wiktionary (https://de.wiktionary.org/wiki/<Lemma>, Autoren siehe Versionsgeschichte), Dump vom 01.10.2026, ausgelesen mit wiktextract (kaikki.org); Häufigkeit: FrequencyWords (hermitdave, OpenSubtitles 2018, CC BY-SA 4.0); Begriffe: OdeNet (Melanie Siegel, Francis Bond, CC BY-SA 4.0); Emoji: Emoji Sentiment Ranking (Kralj Novak, Smailović, Sluban, Mozetič 2015, CC BY-SA 4.0), Namen aus Unicode CLDR (Unicode License v3). Sinne, Satzrahmen, Wendungen, Chat-Wörter und Emoji-Angaben aus diesen Quellen mit Claude Haiku 5.5 (Anthropic) beschrieben und geprüft. Bearbeitet und zusammengeführt.
+gebaut: 2026-10-28 23:28
